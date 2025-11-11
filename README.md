@@ -4,7 +4,7 @@
 ---
 
 ## 🧩 Summary  
-This project develops a **hybrid predictive modelling framework** for stock price forecasting by integrating linear models and deep learning architectures within a **stacking ensemble structure**. Using **Apple Inc. (AAPL)** stock data, the study compares **Linear Regression** and **LSTM** models, optimizes them, and combines their predictive strengths using **Decision Tree** and **XGBoost** meta-learners to achieve improved forecasting accuracy and robustness.
+This project develops a **hybrid predictive modelling framework** for stock price forecasting by integrating linear models and deep learning architectures within a **stacking ensemble structure**. Using **Apple Inc. (AAPL)** stock data, the study compares **Linear Regression** and **LSTM** models, optimizes them, and then combines their predictive strengths using **Decision Tree** and **XGBoost** meta-learners to achieve improved forecasting accuracy and robustness.
 
 ---
 
@@ -32,3 +32,15 @@ This project develops a **hybrid predictive modelling framework** for stock pric
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+## 📈 Data Source  
+- **Yahoo Finance API (via yfinance)**  
+  Historical stock data for **Apple Inc. (AAPL)** from 1995–present.  
+
+---
+
+## 📜 License  
+Licensed under the **MIT License** — see `LICENSE` file for details.
+
+
+
+Added Data Source and License sections to README

@@ -27,14 +27,6 @@ This project develops a **hybrid predictive modelling framework** for stock pric
 | **XGBoost Ensemble** | **2.20** | **1.43** | Best performing model |
 
 ---
-
-## ⚙️ Requirements  
-Install dependencies:
-```bash
-pip install -r requirements.txt
-
-
-
 ## 📈 Data Source
 - **Yahoo Finance API (via yfinance)**  
   Historical stock data for **Apple Inc. (AAPL)** from 1995–present.
@@ -43,5 +35,12 @@ pip install -r requirements.txt
 
 ## 📜 License
 Licensed under the **MIT License** — see `LICENSE` file for details.
+
+
+## ⚙️ Requirements  
+Install dependencies:
+```bash
+pip install -r requirements.txt
+
 
 

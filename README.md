@@ -33,3 +33,15 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 
+
+
+## 📈 Data Source
+- **Yahoo Finance API (via yfinance)**  
+  Historical stock data for **Apple Inc. (AAPL)** from 1995–present.
+
+---
+
+## 📜 License
+Licensed under the **MIT License** — see `LICENSE` file for details.
+
+
